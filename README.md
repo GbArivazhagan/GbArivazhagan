@@ -1,6 +1,6 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Linkedin: GbArivazhagan](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arivazhagan-geetha-balasubramanian-648b8567/)](https://www.linkedin.com/in/arivazhagan-geetha-balasubramanian-648b8567/)
-[![Linkedin: GbArivazhagan](https://img.shields.io/badge/-GoogleScholar-blue?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=xyheRZ8AAAAJ&hl=en)](https://scholar.google.com/citations?user=6RRM4IEAAAAJ&hl=es&authuser=1&oi=ao)
+[![Linkedin: GbArivazhagan](https://img.shields.io/badge/-GoogleScholar-blue?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=xyheRZ8AAAAJ&hl=en)](https://scholar.google.com/citations?user=xyheRZ8AAAAJ&hl=en&authuser=1&oi=ao)
 
 My name is Arivazhagan Geetha Balasubramanian (Ari) and I'm a PhD student at KTH Royal Institute of Technology, Stockholm, working on non-Newtonian fluid flows.
 
